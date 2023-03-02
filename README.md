@@ -1,4 +1,4 @@
-# Voise_analyzer
+# Voice_analyzer
 Development of an analyzer of breathing sounds for the diagnosis of lung diseases. 
 
 The work describes the development of an analyzer of breathing and voice sounds, which records voice parameters 
